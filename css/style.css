@@ -42,7 +42,7 @@ body {
 	margin: 0;
 	padding: 2px;
 	border-radius: 50%;
-	color: #87cefa;
+	color: #27c7ff;
 	background-color: rgba(255, 255, 255, 0);
 	border: none;
 }
@@ -69,4 +69,5 @@ iframe {
 	margin: 0;
 	padding: 0;
 	border: none;
+
 }
